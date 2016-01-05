@@ -1,0 +1,7 @@
+100 Accuracy = 81.336% (5260/6467) (classification)
+200 Accuracy = 80.7639% (5223/6467) (classification)
+400 Accuracy = 80.7639% (5223/6467) (classification)
+800 Accuracy = 86.3461% (5584/6467) (classification)
+1600 Accuracy = 88.1089% (5698/6467) (classification)
+3200 Accuracy = 93.4436% (6043/6467) (classification)
+6467 Accuracy = 98.0207% (6339/6467) (classification)

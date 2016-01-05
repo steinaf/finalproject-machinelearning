@@ -1,0 +1,11 @@
+\addcontentsline{toc}{chapter}{References}
+\begin{thebibliography}{99}
+
+\bibitem{ieee} Survey on NoSQL Database, \textbf{Jing Han, Haihong E, Guan Le, Jian Du},\textit{PCN and CAD Center}
+
+\bibitem{wiki} NoSQL, \ \url{http://en.wikipedia.org/wiki/NoSQL}
+
+\bibitem{slides} Presentation on NoSQL, \textbf{Perry Hoekstra}, \ \url{http://insecure.org/stf/smashstack.html}
+
+
+\end{thebibliography}

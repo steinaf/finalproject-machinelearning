@@ -1,0 +1,37 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Architecture Diagram}}{4}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Component Diagram}}{11}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Main Component}}{12}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Data Component}}{12}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Query Component}}{13}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Section Component}}{13}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Feature Component}}{14}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces SVM Component}}{15}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Node}}{16}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces The data tree}}{17}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Query Generation Data}}{18}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Link Generation Data}}{18}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Section Generation Data}}{19}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Labelling Data}}{19}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Feature Data}}{20}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces SVM Data}}{20}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces data.xml example}}{22}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces config.properties}}{23}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {11.1}{\ignorespaces Word Rank Features}}{30}
+\contentsline {figure}{\numberline {11.2}{\ignorespaces Bigram Rank Features}}{31}
+\contentsline {figure}{\numberline {11.3}{\ignorespaces Word Coverage Features}}{32}
+\contentsline {figure}{\numberline {11.4}{\ignorespaces Optimal Feature Configuration Detection}}{33}
+\contentsline {figure}{\numberline {11.5}{\ignorespaces Learning Curve}}{34}
+\contentsline {figure}{\numberline {11.6}{\ignorespaces Proposed Features}}{35}
+\contentsline {figure}{\numberline {11.7}{\ignorespaces Sample Output for Topic -- Game Theory}}{36}
+\addvspace {10\p@ }

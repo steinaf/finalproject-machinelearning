@@ -1,0 +1,49 @@
+% LaTeX Template for Project Report, Version 1.0
+% (Abstracted for a Value Education Project Report at NIT Calicut but can be
+% modified easily to use for other reports also.)
+%
+% Released under Creative Commons Attribution license (CC-BY)
+%
+% Created by: Kartik Singhal
+% BTech CSE Batch of 2009-13
+% NIT Calicut
+% Contact Info: kartiksinghal@gmail.com
+%
+% It is advisable to learn the basics of LaTeX before using this template.
+% A good resource to start with is http://en.wikibooks.org/wiki/LaTeX/
+%
+% All template fields are marked with a pair of angular brackets e.g. <title here>
+% except for the ones defining citation names in ref.tex.
+%
+% Empty space after chapter/section/subsection titles can be used to insert text.
+%
+% Just compile this file using pdflatex after making all required changes.
+
+\documentclass[10pt,a4paper]{report}
+\usepackage[pdftex]{graphicx} %for embedding images
+\usepackage{url} %for proper url entries
+\usepackage{float}
+\usepackage[dvips, bookmarks, colorlinks=false, pdfborder={0 0 0}, pdftitle={NoSQL}, pdfauthor={Shubhangam Agrawal}, pdfsubject={NoSQL}, pdfkeywords={Databases, Cloud Computing, Big Data}]{hyperref} %for creating links in the pdf version and other additional pdf attributes, no effect on the printed document
+%Prevent Hyphenation
+%\usepackage[none]{hyphenat}
+%\raggedright
+
+\begin{document}
+\renewcommand\bibname{References} %Renames "Bibliography" to "References" on ref page
+
+%include other pages
+\input{./title.tex}
+\input{./certificate.tex}
+\input{./abstract.tex}
+
+\pagenumbering{roman} %numbering before main content starts
+\tableofcontents
+
+\newpage
+\pagenumbering{arabic} %reset numbering to normal for the main content
+
+\input{./body.tex}
+\clearpage
+\input{./ref.tex}
+
+\end{document}

@@ -1,0 +1,686 @@
+TOPIC : retail software
+-----------------------------------------------------------------
+* How much does a retail POS system cost?
+
+* There are so many different retail POS systems out there.
+How will I know how to choose the right one?
+
+* How will a retail POS system help me make more money?
+
+* How can a retail POS system help me run my business more efficiently?
+
+* Is there a major convention for retail software providers?
+I want a live demo of a point of sale system.
+Upgrading from Electronic Cash Registers to a Retail POS System * I already have an electronic cash register, why should I spend the money for a retail POS system? * Is my store too small to benefit from a retail POS system?
+
+* What type of database should I choose?
+
+* Why is scalability important in a retail POS system?
+
+* What is PCI DSS and why is it so important?
+
+* How important are backups?
+
+Ask yourself what features you need now and in the future.
+Do you want a customer loyalty program?
+Do you need faster credit card authorizations over the Internet?
+What about aDashboard view of your key performance indicators ?
+
+How much does a retail POS system cost?
+
+Answer: Like buying a car, it just depends on what you want.
+What features do you need?
+How fast do you want it to go?
+
+Do you need new POS terminals?
+Add $3,000 to $4,000 per workstation.
+What about new scanners, cash drawers, and printers?
+
+There are so many different retail POS systems out there.
+How will I know how to choose the right one?
+
+Answer: The single biggest mistake retailers make when choosing a new retail POS system is buying the point of sale hardware before the retail software.
+The retail software you choose to run your retail business may not be compatible with your new point of sale hardware.
+
+How will a retail POS system help me make more money?
+
+How can a retail POS system help me run my business more efficiently?
+
+Is there a major convention for retail software providers?
+I want a live demo of a point of sale system.
+
+Answer: There are thousands of retail industry trade shows across the country every year.
+There are trade shows for general retail as well as for specific retail industries.Find retail trade shows in your area that plan to have at least one technology vendor demonstrating retail software and/or point of sale hardware.
+
+I already have an electronic cash register, why should I spend the money for a retail POS system?
+
+Is my store too small to benefit from a retail POS system?
+
+I've seen retail software with hundreds of reporting options.
+Why do I need so many reports?
+
+What type of database should I choose?
+
+Why is scalability important in retail software?
+
+What is PCI DSS and why is it so important?
+
+How important are backups?
+
+How do I choose a vendor?
+
+Answer: Whether you buy or lease a retail point of sale system depends on your budget.
+Many technology vendors today offer flexible leasing options for retail POS systems, including 100% financing.
+By leasing the retail software and/or the point of sale hardware, you can reduce the initial start-up costs associated with a new retail point of sale system.
+
+Terms of Use and Privacy Policy Retail, Point-Of-Sale & Inventory Management Software Interview Questions | Glassdoor * Home * Jobs * Companies * Salaries * Interviews Sign Up Sign In Write a Review United States * United States * Australia * Canada * India * United Kingdom Jobs Companies Salaries Interviews Search Advanced Glassdoor is your free inside look at interview questions and reviews.
+All 26 interview questions posted anonymously by employees and interview candidates.
+
+“World geography espesially about USA ex: How many time zones are there in Usa and do commands related to Amadeus or Saber."
+
+What Type Of Business Are You?
+
+What POS Computers & Software Are Best For Me?
+
+What about software updates?
+What if my computer breaks?
+How do I backup and save all my data?
+What if the platform needs patches or problems are found in the operating system or software?
+
+Probably not!
+What small business can afford dedicating employees solely to managing their computers?
+
+* Cheap Point of Sale Software * Retail Software Features * Online Point of Sale * Secure Point of Sale * Salon Point of Sale * Surf Shop POS * Setting up Giftcards Questions about OEM, ACADEMIC, and RETAIL BOX set versions WHAT IS OEM, AE, RETAIL SOFTWARE?
+
+1. Software Name: Microsoft Money 97 OEM - Microsoft left "Online Banking" features out of OEM versions of this product.  Fix may be available through Microsoft  (www.microsoft.com).
+
+What are the benefits of computerizing a store?
+
+What are the advantages of having bar codes on the stock?
+
+How long does it take to get a point of sale system up and running?
+
+What hardware works with Retail Plus?
+
+How many network workstations can use Retail Plus?
+
+Why is QuickBooks Canada recommending Retail Plus?
+
+What sort of pricing strategy do they have?
+Do they offer multiple price deals on new products to introduce them etc?
+What items don’t sell too well?
+Remember, just because items don’t sell too well for them, it doesn’t mean they won’t for you.
+
+  Identifying Potential Suppliers When you have identified the products you want to stock, you need to identify the best possible vendor for your retail business.
+You need to be able to find a vendor that will supply products to you at the best possible price.
+
+What is the delivery timeframe?
+How long will goods take to arrive?
+Do you have to order in advance and book delivery dates significantly ahead?
+
+Average margin: The difference between what you pay for all the goods you sell during a specific period, and what you buy them for, calculated as a percentage of the selling price of the goods.
+
+ Average markup: The difference between what you pay for all the goods you sell during a specific period, and what you buy them for, calculated as a percentage of the cost of the goods.
+
+Beginning of the month (BOM) inventory: The inventory in the store at the beginning of the month.
+
+Business plan: Detailed road map of where a business is going and how it is going to get there.
+
+Cash flow analysis: Financial statement showing how much money the company had at the beginning of the month, how much money came in through sales and payments, and how much went out as payments to create what was left over at the end of the month.
+
+ Freight out: Freight costs for merchandise sent out.
+
+Question: How is help desk support provided?
+
+Question: What type of training programs do you offer?
+
+Question: What type of payment options does PCS offer?
+
+Question: How does CAP compare to other PC based systems?
+
+Answer: The following are a few of the many CAP users.
+
+Rx for Shrink CVS collaborates to reduce external theft.
+Find out the secrets to their success in this STORES magazine article.
+
+What kind of Barcode Scanners are best for my business?
+
+Why would I need to print barcodes?
+
+  Call Us for a Free DEMO 1-800-676-4243 or Email Us at sales@myriadsoft.com About Eclicktic Eclicktic Cloud Sales Inventory Merchandising Accounts Receivable (A/R) Accounts Payable (A/P) Banking General Ledger Contracts System Requirements   Customer Relationship Management(CRM) Eclicktic BE (Hand-Held PDA) Sales Module Eclicktic BE (Hand-Held PDA) Inventory Module Eclicktic BE (Hand-Held PDA) Executive Management Module   Home Services Partners News About Us Contact 10805 Rancho Bernardo Road, Ste.
+250, San Diego, CA 92127-5701 - 800-676-4243 ©2011 Myriad Software LLC sales@myriadsoft.com   Frequently Asked Questions-Retail POS   E-Mail:  Password:  Buy Online or Call (626)806-3456 Download Evaluation | Online Presentation | Online demo Request | Online demo | Reseller Sign-up Retail Management Restaurant/Chain Management Hotel / Resort Management Health Club / Management Rental / Video Management Custom POS Management Featured Bundles Other hardware bundles Hardware Obsolete Hardware Partners About Uniforce POS Frequently Asked Questions Online Demo Terms and Conditions Download Evaluation Purchase Retail Point Of Sale Sign-up Remote Point Of Sale Welcome To Uniforce Technology Featured Partners Partner Agreement Pre-Qualification Requirements    Frequently Asked Questions -Retail POS    Frequently Asked Questions -Restaurant POS    Online Demo    Terms and Conditions       Location: Home >> Service & Support >> Frequently Asked Questions-Retail POS    F.A.Q: Uniforce Retail POS Why should I use Uniforce POS Retail Point Of Sale to replace my Cash Register?
+
+Why should I use Uniforce POS Retail Point Of Sale if I have QuickBooks?
+
+How is Uniforce POS Retail different from my Financial Software?
+
+How is Uniforce POS Retail different from other Point Of Sale programs?
+
+I am currently using another Point Of Sale, how can I get my information into Uniforce POS Retail?
+
+How does Uniforce POS handle inventory?
+
+How many Point Of Sale stations can Uniforce POS Retail Point Of Sale run simultaneously?
+
+How do I process credit cards using Uniforce POS Retail?
+
+Does my accountant need a copy of Uniforce POS Retail Point Of Sale?
+
+How can I get more information about Uniforce POS Retail Point Of Sale?
+
+What Point Of Sale hardware do I need for Uniforce POS Retail?
+
+How easy is Uniforce POS Retail to install and use?
+
+When will my software be out of date?
+
+Is Uniforce Count Inventory needed for the Point Of Sale?
+
+Q: Why should I use Uniforce POS Retail Point Of Sale to replace my Cash Register?
+A: The Cash Register only tells you:
+
+   How much money your business has taken in during the day.    It can't tell you how much of that money is profit you have made.    It can't tell you how much inventory you have in your store.    Or how many of a particular item you sold in the day.
+
+You don't have to worry about forgetting of loosing your receipt or guessing your inventory or profit. << back Q: Why should I use Uniforce POS Retail Point Of Sale if I have QuickBooks?
+A: Uniforce POS Retail Point of Sale is designed for use with or without QuickBooks.
+Using Uniforce POS with QuickBooks is ideal for retailers who:
+
+Uniforce POS Retail will report to your accounting software what was sold, for how much, to whom (if you track customers), and adjust the inventory, updates sales accounts and post tendering totals to un-deposited funds.
+No additional interface modules are needed. << back Q: How many Point Of Sale stations can Uniforce POS Retail Point Of Sale run simultaneously?
+A: Uniforce POS Retail can operate as many Point Of Sale stations as your business needs. << back Q: Can I use Uniforce POS Retail in the store and have my financial software in a different locations i.e. home office/corporate office?
+
+  We respect your privacy .
+How will a retail point of sale system help me make more money?
+
+Calvin Grimes, mobile product manager at Fiserv , sees mobile payments addressing a problem consumers don’t realize they even have.
+Grimes notes it’s similar to how consumers used to think about mobile banking. “They didn’t realize they wanted it until they had it," says Grimes. “Leading financial institutions pioneered the service–now it’s expected."
+
+What should a retailer do to prepare for the mobile payments movement?
+Have a vision in place.
+
+Looking for something?
+
+How to prevent inventory    loss Questions and Answers   COMMON QUESTIONS ABOUT MICROSOFT RETAIL MANAGEMENT SYSTEM Q. I only have one retail store.
+I'd like to use a computer and software, but don't know if Microsoft Business Solutions Retail Management System is a good fit.
+Also, can I use my laptop computer?
+
+Q.
+What types of reports are available within the application?
+
+Q.
+How is the software licensed?
+
+Q.
+What type of security is offered in Microsoft Retail Management System?
+
+Q.
+How soon will Microsoft Retail Management System pay for itself, and what is the ongoing value to my business?
+
+Q.
+What kind of inventory tracking does Microsoft Retail Management System feature?
+
+Top of page Q: I have a growing retail business with six stores, 20 employees, and about $10 million US in sales.
+Can I use Microsoft Retail Management System in more than one store?
+
+Top of page Q: Can I buy and install Microsoft Retail Management System myself?
+
+Top of page Q: Can I customize the application?
+
+Q: What types of reports are available within the application?
+
+Top of page Q: Can the system automatically create purchase orders?
+
+Top of page Q: How is the software licensed?
+
+Q: What type of security is offered in Microsoft Retail Management System?
+
+Top of page Q: How soon will Microsoft Retail Management System pay for itself, and what is the ongoing value to my business?
+
+Q: What kind of inventory tracking does Microsoft Retail Management System feature?
+
+Knowing key dates in this lifecycle helps you make informed decisions about when to upgrade or make other changes to your software.
+Here are the rights and limits of the Windows lifecycle.
+
+End of sales: questions and answers Show all What is the lifecycle policy if I purchase a PC with Windows already installed?
+
+What is the lifecycle policy if I purchase Windows as a packaged product?
+
+What is the lifecycle policy for versions of Windows purchased through Volume Licensing?
+
+What should I do when the version of Windows I'm using reaches its end of support date?
+
+How does the end of support for Windows XP affect my business?
+
+Learn why Microsoft is ending support for Windows XP SP3 and Office 2003 , what it means to you, and how you can get access to all available tools to begin your migration.
+
+Where can I find information about service pack support for Windows Server products?
+
+Top of page Was this helpful?
+Thank you.
+Do you want to add anything else?
+Thank you.
+
+* Media Players * Office Applications * Operating Systems * Screencasting Software * Technology * Video Editing * Virtualization and Emulation * Web Browsers » More Answers.com > Wiki Answers > Categories > Technology > Software and Applications (non-game) > What is the difference retail software and OEM software?
+What is the difference retail software and OEM software?
+
+* What are user defined exceptions in Java?
+
+* What is the serial number and authorization code for all Adobe software?
+
+* What training is required for computer science?
+
+What is the serial number and authorization code for all Adobe software?
+
+What are user defined exceptions in Java?
+Javapits There could be a exception which cannot reach the user as it looks, instead it could be...
+Relationship between system software and application software?
+
+Selamet COmputer software can be divided into two main categories: application software and...
+Contributors Answers & Edits Supervisors Idisjunction Trust: 2077 * Answered Most Recently Recommend Contributor » « Ganderton Trust: 4614 * Technology Supervisor Google Profile » Recommend Supervisor » Schnazola Trust: 3387 * Technology Supervisor Recommend Supervisor » XombieJer Trust: 222 * Software And Apps Supervisor Recommend Supervisor » Fish247 Trust: 696 * Technology Supervisor Recommend Supervisor » » Can you answer these?
+
+In:World War 2 Answer it!
+What is the adjective for comparison?
+In: Adjectives & Articles Answer it!
+How long does it take food in the small intestine to be digested?
+
+* Community (921) * Knowledge Base (662) * Blog (120) 854 Results For Retail Retail 1 - 12 of 854 MYOB RetailEnterprise | Multi-store Retail Software MYOB RetailEnterprise | Multi-store Retail Software Advanced retail software solution that allows you to review your operation's performance, run reports, collect information from each shop of your Australian business Related Searches: Retail Manager Upgrade | Franchise | Network Retail Manager Retail Support - RetailHospitality frequently asked questions (FAQs) Retail Support - RetailHospitality frequently asked questions (FAQs)
+
+ Why automate sales with Retail Plus Point Of Sale?
+Most POS software can save you time, increase accuracy and control what happens at the sales counter.
+But most systems involve high prices, complex setup and big training requirements.Retail Plus is the alternative that removes these barriers with an easy to use, affordable system.
+Our motto is "simplicity works" and you will find that Retail Plus is the easiestPOS system that you have ever used.
+
+How many network computers can use RanceLab® FusionRetail™ 6?
+There is no limit as such.
+It all depends on the number of user license you buy and the server configuration.
+
+Why is you have integrated RanceLab® FusionRetail™ 6 with Tally.ERP 9 while you already have a integrated financial accounting?
+Most of the auditors and business are already using the Tally.ERP for accounting, inventory and statutory reports.
+We offer export data to Tally.ERP 9 as a convenience to those who want to use it for accounting, statutory reports, payroll and audit purpose..
+
+What is "60 days Money Back Guarantee" and why are you offering it?
+If you are not 100% satisfied you can just cancel your order for any reason and ask for refund.
+No questions asked!
+
+Not the answer you're looking for?
+Browse other questions tagged windows-8 license-key or ask your own question .
+
+tagged windows-8  × 4106 license-key  × 85 asked 6 months ago viewed 15481 times active 2 months ago Linked 19 Does a full, retail license of Windows 8 exist?
+(Not OEM, not upgrade)
+
+1 Can I upgrade from Windows 8 Release Preview to Pro version 1 Can you upgrade another machine with Windows 8 Pro after using it?
+
+9 If I'm building a new computer with no previously installed OS, what windows 8 license do I need?
+
+Why do I need to register at all?
+Why do I get logged off automatically?
+How do I prevent my username appearing in the online user listings?
+
+I’ve lost my password!
+I registered but cannot login!
+I registered in the past but cannot login any more?!
+What is COPPA?
+Why can’t I register?
+
+What does the “Delete all board cookies" do?
+User Preferences and settings How do I change my settings?
+The times are not correct!
+I changed the timezone and the time is still wrong!
+My language is not in the list!
+
+How do I show an image along with my username?
+What is my rank and how do I change it?
+When I click the e-mail link for a user it asks me to login?
+Posting Issues How do I post a topic in a forum?
+How do I edit or delete a post?
+
+How do I add a signature to my post?
+How do I create a poll?
+Why can’t I add more poll options?
+How do I edit or delete a poll?
+Why can’t I access a forum?
+
+Why can’t I add attachments?
+Why did I receive a warning?
+How can I report posts to a moderator?
+What is the “Save" button for in topic posting?
+Why does my post need to be approved?
+
+How do I bump my topic?
+Formatting and Topic Types What is BBCode?
+Can I use HTML?
+What are Smilies?
+Can I post images?
+
+What are global announcements?
+What are announcements?
+What are sticky topics?
+
+What are locked topics?
+What are topic icons?
+User Levels and Groups What are Administrators?
+
+What are Moderators?
+What are usergroups?
+Where are the usergroups and how do I join one?
+How do I become a usergroup leader?
+Why do some usergroups appear in a different colour?
+
+What is a “Default usergroup"?
+What is “The team" link?
+Private Messaging I cannot send private messages!
+I keep getting unwanted private messages!
+I have received a spamming or abusive e-mail from someone on this board!
+
+Friends and Foes What are my Friends and Foes lists?
+How can I add / remove users to my Friends or Foes list?
+Searching the Forums How can I search a forum or forums?
+Why does my search return no results?
+Why does my search return a blank page!?
+
+How do I search for members?
+How can I find my own posts and topics?
+Topic Subscriptions and Bookmarks What is the difference between bookmarking and subscribing?
+
+How do I subscribe to specific forums or topics?
+How do I remove my subscriptions?
+Attachments What attachments are allowed on this board?
+
+How do I find all my attachments? phpBB 3 Issues Who wrote this bulletin board?
+Why isn’t X feature available?
+Who do I contact about abusive and/or legal matters related to this board?
+Login and Registration Issues Why can’t I login?
+There are several reasons why this could occur.
+
+There are two images which may appear along with a username when viewing posts.
+One of them may be an image associated with your rank, generally in the form of stars, blocks or dots, indicating how many posts you have made or your status on the board.
+
+You may also be able to lock your own topics depending on the permissions you are granted by the board administrator.
+Top What are topic icons?
+Topic icons are author chosen images associated with posts to indicate their content.
+The ability to use topic icons depends on the permissions set by the board administrator.
+Top User Levels and Groups What are Administrators?
+
+You can add users to your list in two ways.
+Within each user’s profile, there is a link to add them to either your Friend or Foe list.
+Alternatively, from your User Control Panel, you can directly add users by entering their member name.
+
+MerchantOS Point of Sale Software | How To Choose A Retail System MerchantOS - Point of Sale Software Menu * Take a Tour * Customers * Pricing * Add-ons * Get Started * Blog * Help * Login Retail Software Choosing A Retail Computer System Your choice in a retail point of sale system is vital to the success and stability of your business.
+It is the hub around which everything revolves.
+You should have confidence in – and receive performance from – the system that is ultimately responsible for customer transactions, inventory management and every other action in your supply chain and tracking.
+
+What Type Of Business Are You?
+
+What POS Computers & Software Are Best For Me?
+
+What about software updates?
+What if my computer breaks?
+How do I backup and save all my data?
+What if the platform needs patches or problems are found in the operating system or software?
+
+When something goes wrong with your system, how long can you afford for your business to be “down"?
+How long will it take to explain your problem via telephone or e-mail and to be walked through the steps?
+How long will it take for an IT professional to arrive to fix your POS System?
+
+That's one of the beauties of a web based point of sale – experts can log into your system and fix the problem for you.
+This alleviates many of the support problems inherent of typical desktop software-based point of sale systems.
+
+So What's The Bottom Line?
+
+Of course! * Accounts Payable and Receivable?
+Yes! * Merchandising?
+Oh, yeah! * Contracts?
+
+Got it! * Inventory Management?
+Yep! * Delivery scheduling?
+A key necessity! * Banking?
+
+We were told that our data could be transferred over to the new system (extra $), but then it couldn't.
+We had to manually enter our 17,000 inventory items, customers, vendors, etc.
+Retail Star assigns its own bar codes, so the actual bar code on the product has to be put in as an alias, as does the vendors part number.
+I am sorry that so far I can't find anything about this system that makes life faster or easier.
+Do you use RetailSTAR?
+
+Some stores print and laminate mailing labels for use as customer identification cards.
+If the label includes the customer's Retail Pro Customer ID in barcode, then a cashier can scan the barcode to quickly write the customer on a document or find the customer's record in the customer file Zip code lookup If you have set up your system to use ZIP/Postal Code Lookup, entering the ZIP code will automatically write the corresponding city, state, and/or country information on the customer record (see usage for the ZIP field described previously in the customer fields table).
+If you enter a nine-digit zip code, such as 12345-6789, including the hyphen, the system will ignore the four-digit extension and look for an entry that matches the first five digits.
+
+Lead times for items (if the item?s vendor has a lead time defined for it) are displayed on the Committed screen.
+1. Select SYSTEM PREFERENCES > MERCHANDISE > VENDORS > USER-DEFINED > Text Field Names: Enter LT as the name for one of the text fields.
+2. In the vendor module, enter the number of days of lead time for a particular vendor in the LT field.
+
+or Take a Product Tour » Why choose IssueTrak software?
+
+* Gas stations * Beauty salons * Restaurants * Grocery stores * Liquor etc.
+What really makes the POS software retail very unique is its ability to track and monitor the inventory for your specific business.
+The retail software is known to complete several steps when an actual sale is processed, how?
+It starts by immediately removing the sold item from the inventory database, and it also goes on to process the payment as well.
+
+* 11 John Harrison 9 June 2011 at 8:43 pm I do believe the product is good and readily admit my shortcomings when it comes to marketing.
+I will talk to my partner and consider contacting Andy.
+Thanks.
+
+* Building an SAP Solution Manager roadmap: Where to start?
+
+If you have additional questions, you can ask the retail expert .
+
+* How much does a retail POS system cost?
+
+* Should I buy the point of sale hardware or the retail software first?
+
+* How can a retail POS system help me run my business more efficiently?
+
+* Is there a major convention for retail software providers?
+I want a live demo of a point of sale system.
+Upgrading from Electronic Cash Registers to a Retail POS System * I already have an electronic cash register, why should I spend the money for a retail POS system? * Is my store too small to benefit from a retail POS system?
+
+Features of Retail POS Systems * I've seen retail software with hundreds of reporting options.
+Why do I need so many reports?
+
+* What type of database should I choose?
+
+* Why is scalability important in a retail POS system?
+
+* What is PCI DSS and why is it so important?
+
+* How important are backups?
+
+* If my server goes down, can the clerks continue ringing up sales?
+
+Ask yourself what features you need now and in the future.
+Do you want a customer loyalty program?
+Do you need faster credit card authorizations over the Internet?
+What about aDashboard view of your key performance indicators ?
+
+How much does a retail POS system cost?
+
+Answer: Like buying a car, it just depends on what you want.
+What features do you need?
+How fast do you want it to go?
+
+Do you need new POS terminals?
+Add $3,000 to $4,000 per workstation.
+What about new scanners, cash drawers, and printers?
+
+Find reputable technology companies with years of expertise in the retail industry.
+Ask for references and call them.
+Many customers are happy to talk about their business challenges.
+
+Consider all factors, such as retail software, technical support, service after the sale, point of sale hardware, and integration with accounting packages or other business software you use.
+Learn more about how tochoose the right retail POS system for your business.
+
+Should I buy the point of sale hardware or the retail software first?
+
+Not all scanners, weight scales, or card readers will work with all retail software packages.
+Buying both the point of sale hardware and the retail software from the same vendor can reduce or eliminate compatibility issues and can often reduce your overall technology costs.
+
+Check out the retail POS hardware basics for more information on point of sale hardware.
+
+How can a retail POS system help me run my business more efficiently?
+
+Is my store too small to benefit from a retail POS system?
+
+What type of database should I choose?
+
+Why is scalability important in retail software?
+
+What is PCI DSS and why is it so important?
+
+How important are backups?
+
+If my server goes down, can the clerks continue ringing up sales?
+
+You also need to consider the vendor's location, areas of expertise, and number of years in business.
+Does the vendor offer extended support hours if you need them?
+If you have stores in multiple regions, can your vendor support all of your stores?
+Make sure that the vendor you choose can grow with you as your business grows.
+
+Point Of Sale Inventory Database Client Database Our point of sale software runs on Windows 8, Windows 7, Vista and XP   Home | Features | POS Download | Point Of Sale Answers DIY Point Of Sale  | Software Support | Software Prices | Point Of Sale Dealers  QuickBooks Links | Retail Plus POS Contact     Risk Free 60 Day Trial You can get our POS software up and running in five minutes when you download the easy-to-use installer.
+A sample inventory is already included so you can try it without any long setups.
+
+ Transform Any PC Into A Point Of Sale System Are You New To Retail Point Of Sales?
+
+A Point Of Sale, or even more importantly, a Point of Service system, is a computer that is used instead of the old fashioned cash register.
+It’s a personal computer (PC) connected to a receipt printer, cash drawer, credit/debit card reader and bar code scanner.
+
+What can a POS system accomplish?
+
+How much can I expect to pay?
+
+How much will it cost me to train them?
+
+Are all POS systems the same?
+Can a system designed for a clothing store work in a hardware store?
+
+In a grocery store we look at how many customers came into the store, filled or partially filled a basket and then abandoned it before they reached the Point of Sale.
+Often, if this number of abandoned baskets is high it is a pretty strong indicator that our lineups were too long at POS and the customer got frustrated and left.
+Now, this is not the reason for every abandoned basket, some are due to genuine emergencies that customers have (such as forgetting their wallets!).
+
+Remember back a month ago, when Cook sent out a letter to customers admitting to the problem?
+You know, the one where he sounded like he was groveling and where he said people can always use other map apps until Apple worked out the bugs?
+
+Point-of-Sale Transactions In retail, the point-of-sale (POS) transactions are extremely important, yet have unique issues when compared to similar transactions in the B2B world.
+An obvious question is: Why is the problem of a delay in issuing a small valued ticket (due to a hardware or software failure, or just slow response time) so critical?
+
+The Numbers Behind SAP's Product Retailers are very motivated to get technology like this in place.
+A recent Retail Systems Research study noted the "top 3 technologies reported by survey respondents were customer purchase analytics, CRM, and marketing operations planning" - right where SAP's new product lives.
+And despite few problems collecting customer data, only 56% of the retailer respondents now believe they know who their best shoppers are, a big drop from last year's 73% figure.
+
+What POS Computers & Software Are Best For Me?
+
+What about software updates?
+What if my computer breaks?
+How do I backup and save all my data?
+What if the platform needs patches or problems are found in the operating system or software?
+
+Probably not!
+What small business can afford dedicating employees solely to managing their computers?
+
+When something goes wrong with your system, how long can you afford for your business to be “down"?
+How long will it take to explain your problem via telephone or e-mail and to be walked through the steps?
+How long will it take for an IT professional to arrive to fix your POS System?
+
+POS Bundles or Mix and Match?
+
+So What's The Bottom Line?
+
+View all posts by David Spark Related Jobs Healthcare Project Manager Computer Enterprises, Inc. - Atlanta, GA <http://www.dice.com/job/result/ceiam/086579?
+src=64&q=computer programmer, project manager&icidcnt=CT:AF> Clinical Information Systems Programmer Avesta Computer Services - New York City, NY <http://www.dice.com/job/result/avesta/CLISP_NY?
+
+src=64&q=computer programmer, project manager&icidcnt=CT:AF> Java Developer (Govt Project) Intellect Solutions LLC - Springfield, VA <http://www.dice.com/job/result/10493636/112128?
+src=64&q=computer programmer, project manager&icidcnt=CT:AF> Sr.
+Programmer (.NET Developer) Friedkin Companies Inc - Houston, TX <http://www.dice.com/job/result/FRITX001/090623?
+
+* TWEET THIS >> <http://twitter.com/home?status=Think you can be the ultimate CEO?
+Your chance is coming.
+
+CLUE: Who has done it already?
+
+CLUE: Who has done it already?
+
+CLUE: Who has done it already?
+
+CLUE: Who has done it already?
+
+* TWEET THIS >> <http://twitter.com/home?status=Think you can be the ultimate CEO?
+Your chance is coming.
+
+CLUE: Who has done it already?
+
+CLUE: Who has done it already?
+
+CLUE: Who has done it already?
+
+CLUE: Who has done it already?
+
+* TWEET THIS >> <http://twitter.com/home?status=Think you can be the ultimate CEO?
+Your chance is coming.
+
+* TWEET THIS >> <http://twitter.com/home?status=Think you can be the ultimate CEO?
+Your chance is coming.
+
+* TWEET THIS >> <http://twitter.com/home?status=Think you can be the ultimate CEO?
+Your chance is coming.
+
+Legacy account member?
+Sign in.
+
+Categories * Education * Internships * Jobs * Jobs & Education Answers.com > Wiki Answers > Categories > Jobs & Education > Jobs > Job Interviews > How do you answer 'Describe a time you solved a problem' in a job interview?
+How do you answer 'Describe a time you solved a problem' in a job interview?
+
+* How do you answer 'Why should we hire you' in a job interview?
+
+* How do you answer the question 'what is your greatest weakness' in a job interview?
+
+* What are the worst answers to the question 'What is your biggest weakness'?
+
+Gil The most feared question of the job interview is "What is your biggest weakness?"
+There are many ways to get this wrong: The worst... more » Related Videos How to Dress in Style for Every Job Interview See Video How to Groom Yourself for Job Interviews See Video How to Avoid Bad Breath on a Job Interview See Video How to Communicate Your Weakness in a Job Interview See Video Top Questions How do you answer 'Describe yourself' in an interview?
+
+Darksyde While describing yourself in an interview, the answer should always be related to the...
+How do you answer 'Why should we hire you' in a job interview?
+
+Why did Mary Mackillop move to Sydney?
+In: Australia Answer it!
+What were the reason for japan becoming allied with Germany in World War 2 despite being allied to Britain in World War 1?
+
+In:World War 2 Answer it!
+What is the adjective for comparison?
+In: Adjectives & Articles Answer it!
+Is there a real diary like they show in diary of a wimpy kid movie?
+
+Point-of-Sale Transactions In retail, the point-of-sale (POS) transactions are extremely important, yet have unique issues when compared to similar transactions in the B2B world.
+An obvious question is: Why is the problem of a delay in issuing a small valued ticket (due to a hardware or software failure, or just slow response time) so critical?
+
+I want to give you more ££!!
+Make this easier! * Share on Facebook * Share on Twitter * Share on Pinterest * Share on Google * Share on Linkedin * Share by email Klim Tue, Sep 11 2012 02:36:39 Reply Retweet Favorite 0 likes  ·  0 comments * @VodafoneUK do you have an explanation as to why your website is so slow?
+Lost the will to live trying to check my bill!
+
+This change is good: It has dragged me and many other designers back to desktops creakin… * Share on Facebook * Share on Twitter * Share on Google * Share on Linkedin * Share by email Econsultancy 0 likes  ·  0 comments * Why does performance matter?
+Read this post to find out… * Performance in the spotlight: Why performance is so important to the bottom line Recently, major websites like Mashable have drawn attention to the public impression on website performance.
+I thought it would be intere… * Share on Facebook * Share on Twitter * Share on Google * Share on Linkedin * Share by email Alex McConnell 0 likes  ·  0 comments Posted by Alex McConnell on September 17, 2012 in #WebPerf and taggede-commerce , performance , social media , storify , webperf .
+
+You will still be able to network with other users, comment on videos, join groups, and attend programs.
+If private, other members of the community will only be able to view your first name, last initial, certificate status, program days, profile views, the number of people in your network, last log in, and when you joined.
+If you choose to network with other users they will be able to see all portions of your profile set to "Shared" in the "Edit Profile" screen.
+
+Over the past couple of months we have been making a steady stream of demos.
+
+* A golf shop pays its wholesaler $40 for a certain club, and then sells it to a golfer for$75.
+What is the markup rate?
+First, I'll calculate the markup in absolute terms:
+
+This problem didn't state how to round the final answer, but dollars-and-cents is always written with two decimal places, so:
+
+So where does this leave us for now?
+What Google has shown is promising, but their design challenges are clear:
+
+A good counter-example is the iPad.
+Lots of people dismissed it when it first came out, saying, "Sure, it’s cool, but what does anyone need another computer for?"
+
+The softest touches of design will define Project Glass’s future.
+The little things, the softest touches of design, will define Project Glass’s future in the marketplace.
+Is the interface loud or quiet?
+Do we use vocal commands with some functions or all functions?
+Are notifications really in the center of the screen, or can they be repositioned?
+

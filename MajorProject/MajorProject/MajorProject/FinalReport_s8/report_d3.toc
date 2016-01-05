@@ -1,0 +1,62 @@
+\contentsline {part}{I\hspace {1em}Introduction}{4}
+\contentsline {chapter}{\numberline {1}Literature Survey}{1}
+\contentsline {part}{II\hspace {1em}Work Done in S7}{3}
+\contentsline {chapter}{\numberline {2}Architecture}{4}
+\contentsline {section}{\numberline {2.1}Query Generation}{5}
+\contentsline {section}{\numberline {2.2}Search Engine}{5}
+\contentsline {section}{\numberline {2.3}Page Preprocessor}{5}
+\contentsline {section}{\numberline {2.4}Feature Generator}{6}
+\contentsline {subsection}{\numberline {2.4.1}Word Rank Based Features}{6}
+\contentsline {subsection}{\numberline {2.4.2}Bigram Rank Based Features}{6}
+\contentsline {subsection}{\numberline {2.4.3}Coverage of Top Ranked Tokens}{7}
+\contentsline {subsection}{\numberline {2.4.4}Coverage of Interrogative Indicators}{7}
+\contentsline {subsection}{\numberline {2.4.5}Absence of Specific Keywords}{7}
+\contentsline {section}{\numberline {2.5}Labelling (Training Set Generation)}{8}
+\contentsline {section}{\numberline {2.6}Support Vector Machine}{8}
+\contentsline {section}{\numberline {2.7}Output}{8}
+\contentsline {chapter}{\numberline {3}Prototype}{9}
+\contentsline {part}{III\hspace {1em}Work Done in S8}{10}
+\contentsline {chapter}{\numberline {4}Class Design}{11}
+\contentsline {section}{\numberline {4.1}Main Component}{12}
+\contentsline {section}{\numberline {4.2}Data Component}{12}
+\contentsline {section}{\numberline {4.3}Query Component}{13}
+\contentsline {section}{\numberline {4.4}Section Component}{13}
+\contentsline {section}{\numberline {4.5}Feature Component}{14}
+\contentsline {section}{\numberline {4.6}SVM Component}{15}
+\contentsline {chapter}{\numberline {5}Data Structure Design}{16}
+\contentsline {section}{\numberline {5.1}Node Design}{16}
+\contentsline {section}{\numberline {5.2}Tree Design}{17}
+\contentsline {subsection}{\numberline {5.2.1}Query Generation}{18}
+\contentsline {subsection}{\numberline {5.2.2}Link Generation}{18}
+\contentsline {subsection}{\numberline {5.2.3}Section Generation}{19}
+\contentsline {subsection}{\numberline {5.2.4}Labelling}{19}
+\contentsline {subsection}{\numberline {5.2.5}Feature Generation}{20}
+\contentsline {subsection}{\numberline {5.2.6}SVM Classification}{20}
+\contentsline {chapter}{\numberline {6}Data File Design}{21}
+\contentsline {chapter}{\numberline {7}Config File Design}{23}
+\contentsline {chapter}{\numberline {8}SVM Package Identification}{24}
+\contentsline {chapter}{\numberline {9}Section Generation Heuristic}{25}
+\contentsline {chapter}{\numberline {10}Frequency List Generation}{26}
+\contentsline {section}{\numberline {10.1}Unigram Frequency Generation}{26}
+\contentsline {section}{\numberline {10.2}Bigram Frequency Generation}{26}
+\contentsline {chapter}{\numberline {11}Implementation and Analysis}{27}
+\contentsline {section}{\numberline {11.1}Training Data Generation}{27}
+\contentsline {section}{\numberline {11.2}Performance Measure}{28}
+\contentsline {section}{\numberline {11.3}Feature Analysis}{29}
+\contentsline {subsection}{\numberline {11.3.1}Procedure}{29}
+\contentsline {subsection}{\numberline {11.3.2}Observations}{30}
+\contentsline {subsubsection}{Word Rank Based Features}{30}
+\contentsline {subsubsection}{Bigram Rank Based Features}{31}
+\contentsline {subsubsection}{Word Coverage Based Features}{32}
+\contentsline {subsubsection}{Optimal Feature Configuration}{33}
+\contentsline {paragraph}{Optimal Configuration --- Accuracy 90.69\%}{33}
+\contentsline {paragraph}{Optimal SVM parameters}{33}
+\contentsline {section}{\numberline {11.4}Training Set Size Analysis}{34}
+\contentsline {subsection}{\numberline {11.4.1}Procedure}{34}
+\contentsline {subsection}{\numberline {11.4.2}Observation}{34}
+\contentsline {section}{\numberline {11.5}Proposed Features Analysis}{35}
+\contentsline {subsection}{\numberline {11.5.1}Procedure}{35}
+\contentsline {subsection}{\numberline {11.5.2}Observation}{35}
+\contentsline {section}{\numberline {11.6}Real Run}{36}
+\contentsline {chapter}{\numberline {12}Conclusion and Future Work}{37}
+\contentsline {chapter}{References}{38}

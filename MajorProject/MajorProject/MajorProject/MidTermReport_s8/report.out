@@ -1,0 +1,30 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Problem Statement}{chapter.1}% 2
+\BOOKMARK [0][-]{chapter.2}{Literature Survey}{}% 3
+\BOOKMARK [0][-]{chapter.3}{Work Done in S7}{}% 4
+\BOOKMARK [1][-]{section.3.1}{Architecture Design}{chapter.3}% 5
+\BOOKMARK [2][-]{subsection.3.1.1}{Query Generation}{section.3.1}% 6
+\BOOKMARK [2][-]{subsection.3.1.2}{Search Engine}{section.3.1}% 7
+\BOOKMARK [2][-]{subsection.3.1.3}{Page Preprocessor}{section.3.1}% 8
+\BOOKMARK [2][-]{subsection.3.1.4}{Feature Generator}{section.3.1}% 9
+\BOOKMARK [2][-]{subsection.3.1.5}{Labelling \(Training Set Generation\)}{section.3.1}% 10
+\BOOKMARK [2][-]{subsection.3.1.6}{Support Vector Machine}{section.3.1}% 11
+\BOOKMARK [2][-]{subsection.3.1.7}{Output}{section.3.1}% 12
+\BOOKMARK [1][-]{section.3.2}{Prototype}{chapter.3}% 13
+\BOOKMARK [0][-]{chapter.4}{Work Done in S8}{}% 14
+\BOOKMARK [1][-]{section.4.1}{Class Design}{chapter.4}% 15
+\BOOKMARK [2][-]{subsection.4.1.1}{Main Component}{section.4.1}% 16
+\BOOKMARK [2][-]{subsection.4.1.2}{Query Component}{section.4.1}% 17
+\BOOKMARK [2][-]{subsection.4.1.3}{Section Component}{section.4.1}% 18
+\BOOKMARK [2][-]{subsection.4.1.4}{Feature Component}{section.4.1}% 19
+\BOOKMARK [2][-]{subsection.4.1.5}{SVM Component}{section.4.1}% 20
+\BOOKMARK [2][-]{subsection.4.1.6}{Output Component}{section.4.1}% 21
+\BOOKMARK [1][-]{section.4.2}{Data Structure Design}{chapter.4}% 22
+\BOOKMARK [2][-]{subsection.4.2.1}{Node Design}{section.4.2}% 23
+\BOOKMARK [2][-]{subsection.4.2.2}{Tree Design}{section.4.2}% 24
+\BOOKMARK [1][-]{section.4.3}{Data File Design}{chapter.4}% 25
+\BOOKMARK [1][-]{section.4.4}{Config File Design}{chapter.4}% 26
+\BOOKMARK [1][-]{section.4.5}{SVM Package Identification}{chapter.4}% 27
+\BOOKMARK [1][-]{section.4.6}{Coding Progress}{chapter.4}% 28
+\BOOKMARK [0][-]{chapter.5}{Further Work}{}% 29
+\BOOKMARK [0][-]{chapter.5}{References}{}% 30

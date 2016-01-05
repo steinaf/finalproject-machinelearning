@@ -1,0 +1,36 @@
+<root>
+	Machine Learning
+	<query>
+		Machine Learning Questions
+		<section>
+			Text for Section1
+			<svmresult>
+				Relevant
+			</svmresult>
+			<inset>
+				Testing Set
+			</inset>
+			<featurelist>
+				WordRankBasedFeature
+				<feature>
+					Rank 1
+					<featurevalue>6</featurevalue>
+				</feature>
+				<feature>
+					Rank 2
+					<featurevalue>3</featurevalue>
+				</feature>
+			</featurelist>
+			<feature>
+				InterrogativeFeature
+				<featurevalue>5</featurevalue>
+			</feature>	
+		</section>
+		<section>
+			Text for Section2
+		</section>
+	</query>
+	<query>
+		Machine Learning Problems
+	</query>
+</root>
